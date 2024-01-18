@@ -1,0 +1,13 @@
+{
+    "name": "socket-chat-practice",
+    "version": "0.0.1",
+    "description": "My first socket.io app",
+    "type": "commonjs",
+    "dependencies": {
+        "express": "^4.18.2",
+        "socket.io": "^4.7.4"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.3"
+    }
+}
